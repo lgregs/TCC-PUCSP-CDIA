@@ -3,7 +3,8 @@ Os arquivos desta pasta estão sendo utilizados nas análises ao longo do projet
 - Arquivos .CSV foram lidos com Python Pandas
     ex: 
                 import Pandas
-            stores = pd.read_csv('/content/drive/MyDrive/store_sales/stores.csv')
+  
+           stores = pd.read_csv('/content/drive/MyDrive/store_sales/stores.csv')
 
 - Arquivos .PKL foram lidos com a biblioteca Pickle
     ex: 
