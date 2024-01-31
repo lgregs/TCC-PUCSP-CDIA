@@ -10,5 +10,5 @@ Os arquivos desta pasta estão sendo utilizados nas análises ao longo do projet
     ex: 
                 import pickle
 
-            with open("df_analysis.pkl", "wb") as fp:   # Pickling
-                pickle.dump(df_analysis, fp)
+            with open("df_cleaned.pkl", "rb") as fp:   # Unpickling
+            df_cleaned = pickle.load(fp)
