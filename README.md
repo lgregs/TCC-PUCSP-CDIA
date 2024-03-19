@@ -16,8 +16,6 @@
 
 Este projeto foi desenvolvido em conjunto por:
 
-This project was developed in collaboration with:
-
 - Lucas Gregorio: [ https://github.com/gr3g-z ]
 - Beatriz Rodovalho: [ https://github.com/biarodgil ]
 - Orientado por Professor Rooney Coelho
