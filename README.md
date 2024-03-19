@@ -16,6 +16,6 @@
 
 Este projeto foi desenvolvido em conjunto por:
 
-- Lucas Gregorio]: [https://github.com/gr3g-z]
-- Beatriz Rodovalho: [https://github.com/biarodgil]
-- Orientado por Professor Rooney Coelho: [Link para Perfil do Professor]
+- Lucas Gregorio: [ https://github.com/gr3g-z ]
+- Beatriz Rodovalho: [ https://github.com/biarodgil ]
+- Orientado por Professor Rooney Coelho
