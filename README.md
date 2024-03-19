@@ -15,6 +15,7 @@
 ## Créditos (Credits)
 
 Este projeto foi desenvolvido em conjunto por:
+
 This project was developed in collaboration with:
 
 - Lucas Gregorio: [ https://github.com/gr3g-z ]
