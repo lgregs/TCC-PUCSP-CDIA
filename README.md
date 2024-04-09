@@ -12,6 +12,8 @@
 
 ## Uso (Use)
 
+## Resultados (Results)
+
 ## Créditos (Credits)
 
 Este projeto foi desenvolvido em conjunto por:
