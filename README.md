@@ -1,5 +1,6 @@
 # Análise e Previsão de Dados com Séries Temporais (Data Analysis and Time Series Forecasting)
 <img src="https://github.com/gr3g-z/TCC-PUCSP-CDIA/assets/62582076/c3cf8eb4-2c2c-4c96-89e4-75a0250d76de" alt="image" style="width:75%">
+
   Este Trabalho de Conclusão de Curso (TCC) tem como objetivo comparar dois métodos de séries temporais para previsão de dados: SARIMA e Prophet. O projeto visa compreender os modelos e suas principais diferenças. Além disso, o trabalho inclui etapas de limpeza e exploração dos dados, bem como a aplicação do Modelo de Machine Learning K-Means para a segmentação dos dados a fim de otimizar a precisão das previsões.
 
   This Paper aims to compare two time series methods for data forecasting: SARIMA and Prophet. The project goal is to understand the models and their main differences. In addition, the work includes data cleaning and exploration steps, as well as the application of K-Means Machine Learning Model for data segmentation in order to optimize the accuracy of predictions.
