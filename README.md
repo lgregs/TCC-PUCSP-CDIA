@@ -19,10 +19,15 @@
 
 ## Resultados (Results)
 
-  ### Uso (Usage)
-  O projeto inclui exploração, visualização, préprocessamento, previsão de dados além do treinamento de modelos e validação usando algoritimos de classificação.
+## Uso (Usage)
+O projeto inclui exploração, visualização, préprocessamento, previsão de dados além do treinamento de modelos e validação usando algoritimos de classificação.
 
-  The project includes data exploration, visualization, preprocessing, forecasting, model training, and evaluation using various classification algorithms.
+The project includes data exploration, visualization, preprocessing, forecasting, model training, and evaluation using various classification algorithms.
+
+  ### Descrição das Pastas (Folders Description)
+  -
+  -
+  -
 
   ### Installation
   Para executar este projeto, é necessário instalar as bibliotecas recomentadadas e rodar o código em sua IDE de preferência e não esqueca de trocar os caminhos dos arquivos!
