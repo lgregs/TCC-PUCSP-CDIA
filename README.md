@@ -18,14 +18,22 @@
 - prophet
 
 ## Resultados (Results)
+Dataset 1
+-
+-
+-
+
 ### Insights [Utilizar insights do Notion]
-in progress [...]
+
+Dataset 2
 
 -
 -
 -
 -
-[...]
+
+in progress [...]
+
 ## Uso (Usage)
 O projeto inclui exploração, visualização, préprocessamento, previsão de dados além do treinamento de modelos e validação usando algoritimos de classificação.
 
