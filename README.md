@@ -19,19 +19,18 @@
 
 ## Resultados (Results)
 
-Dataset 1
--
--
--
+  Dataset 1
+- resultado sarima
+- resultado prophet
+- resultado kmeans
 
 ### Insights [Utilizar insights do Notion]
 
-Dataset 2
+  Dataset 2
 
--
--
--
--
+- resultado sarima
+- resultado prophet
+- resultado kmeans
 
 in progress [...]
 
