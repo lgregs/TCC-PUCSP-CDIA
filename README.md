@@ -23,9 +23,9 @@
   The project includes data exploration, visualization, preprocessing, forecasting, model training, and evaluation using various classification algorithms.
 
   ### Installation
-  Para executar este projeto, é necessário instalar as bibliotecas recomentadadas e rodar o código em sua IDE de preferência.
+  Para executar este projeto, é necessário instalar as bibliotecas recomentadadas e rodar o código em sua IDE de preferência e não esqueca de trocar os caminhos dos arquivos!
   
-  To run the project, you need to install the required libraries than run the code in your prefered IDE.
+  To run the project, you need to install the required libraries than run the code in your prefered IDE, and don't forget to change file paths!
 
 ## Créditos (Credits)
 
