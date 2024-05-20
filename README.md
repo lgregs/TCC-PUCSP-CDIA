@@ -19,9 +19,10 @@
 
 ## Resultados (Results)
 
-  ###Dataset 1
+  ### Dataset 1
   
 **- Resultado SARIMA:**
+
   ![image](https://github.com/gr3g-z/TCC-PUCSP-CDIA/assets/62582076/bd4402fc-28c6-4bbf-8369-ef79ceec06f3)
   
 
@@ -36,9 +37,18 @@
 
 
 **- Resultado Prophet**
+
   ![image](https://github.com/gr3g-z/TCC-PUCSP-CDIA/assets/62582076/c7ef2360-0756-476b-92c6-ec6327e5e386)
-    - Acurácia: 0.6427794640930615
-    - MAPE: 75.54236352462792
+
+
+| Métrica  | Valor             |
+|----------|-------------------|
+| Acurácia | 0.6427794640930615|
+| MAPE     | 75.54236352462792 |
+
+**Acurácia do modelo PROPHET**: 64.28%  
+**MAPE para o modelo PROPHET**: 75.54%
+
 **- Resultado K-Means**
 
 ### Insights [Utilizar insights do Notion]
