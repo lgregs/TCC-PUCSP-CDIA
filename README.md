@@ -57,6 +57,8 @@ This Projetct was developed by:
 
 - [Lucas Gregorio](https://github.com/gr3g-z)
 - [Beatriz Rodovalho](https://github.com/biarodgil)
-- Orientado por (Oriented by): Professor Rooney Coelho
+
+  Orientado por (Oriented by):
+-  Professor Rooney Coelho
   
 
