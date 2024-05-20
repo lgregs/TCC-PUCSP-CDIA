@@ -33,8 +33,8 @@ Acurácia do modelo SARIMA: 55.45%
 
 - resultado prophet
   ![image](https://github.com/gr3g-z/TCC-PUCSP-CDIA/assets/62582076/c7ef2360-0756-476b-92c6-ec6327e5e386)
-Acurácia: 0.6427794640930615
-MAPE: 75.54236352462792
+- - Acurácia: 0.6427794640930615
+- - MAPE: 75.54236352462792
 - resultado kmeans
 
 ### Insights [Utilizar insights do Notion]
