@@ -36,7 +36,7 @@
 **Acurácia do modelo SARIMA**: 55.45%
 
 
-**- Resultado Prophet**
+**- Resultado Prophet:**
 
   ![image](https://github.com/gr3g-z/TCC-PUCSP-CDIA/assets/62582076/c7ef2360-0756-476b-92c6-ec6327e5e386)
 
@@ -55,9 +55,9 @@
 
   ###Dataset 2
 
-**- Resultado SARIMA**
-**- Resultado Prophet**
-**- Resultado K-Means**
+**- Resultado SARIMA:**
+**- Resultado Prophet:**
+**- Resultado K-Means:**
 
 in progress [...]
 
