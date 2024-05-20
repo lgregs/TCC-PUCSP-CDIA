@@ -24,26 +24,30 @@
 **- Resultado SARIMA:**
   ![image](https://github.com/gr3g-z/TCC-PUCSP-CDIA/assets/62582076/bd4402fc-28c6-4bbf-8369-ef79ceec06f3)
   
-          SARIMA
-MAE    10.471487
-RMSE  237.556320
-MAPE   44.548467
-MAPE para o modelo SARIMA: 44.55%
-Acurácia do modelo SARIMA: 55.45%
 
-**- resultado Prophet**
+| Métrica            | Valor         |
+|--------------------|---------------|
+| MAE                | 10.471487     |
+| RMSE               | 237.556320    |
+| MAPE               | 44.548467     |
+
+**MAPE para o modelo SARIMA**: 44.55%  
+**Acurácia do modelo SARIMA**: 55.45%
+
+
+**- Resultado Prophet**
   ![image](https://github.com/gr3g-z/TCC-PUCSP-CDIA/assets/62582076/c7ef2360-0756-476b-92c6-ec6327e5e386)
     - Acurácia: 0.6427794640930615
     - MAPE: 75.54236352462792
-**- resultado K-Means**
+**- Resultado K-Means**
 
 ### Insights [Utilizar insights do Notion]
 
   ###Dataset 2
 
-**- resultado SARIMA**
-**- resultado Prophet**
-**- resultado K-Means**
+**- Resultado SARIMA**
+**- Resultado Prophet**
+**- Resultado K-Means**
 
 in progress [...]
 
