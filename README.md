@@ -19,9 +19,11 @@
 
 ## Resultados (Results)
 
-  Dataset 1
+  **Dataset 1**
+  
 - Resultado SARIMA:
   ![image](https://github.com/gr3g-z/TCC-PUCSP-CDIA/assets/62582076/bd4402fc-28c6-4bbf-8369-ef79ceec06f3)
+  
           SARIMA
 MAE    10.471487
 RMSE  237.556320
@@ -37,9 +39,9 @@ MAPE: 75.54236352462792
 
 ### Insights [Utilizar insights do Notion]
 
-  Dataset 2
+  **Dataset 2**
 
-- resultado sarima
+- resultado SARIMA
 - resultado prophet
 - resultado kmeans
 
