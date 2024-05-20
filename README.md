@@ -19,9 +19,9 @@
 
 ## Resultados (Results)
 
-  **Dataset 1**
+  ###Dataset 1
   
-- Resultado SARIMA:
+**- Resultado SARIMA:**
   ![image](https://github.com/gr3g-z/TCC-PUCSP-CDIA/assets/62582076/bd4402fc-28c6-4bbf-8369-ef79ceec06f3)
   
           SARIMA
@@ -31,19 +31,19 @@ MAPE   44.548467
 MAPE para o modelo SARIMA: 44.55%
 Acurácia do modelo SARIMA: 55.45%
 
-- resultado prophet
+**- resultado Prophet**
   ![image](https://github.com/gr3g-z/TCC-PUCSP-CDIA/assets/62582076/c7ef2360-0756-476b-92c6-ec6327e5e386)
-- - Acurácia: 0.6427794640930615
-- - MAPE: 75.54236352462792
-- resultado kmeans
+    - Acurácia: 0.6427794640930615
+    - MAPE: 75.54236352462792
+**- resultado K-Means**
 
 ### Insights [Utilizar insights do Notion]
 
-  **Dataset 2**
+  ###Dataset 2
 
-- resultado SARIMA
-- resultado prophet
-- resultado kmeans
+**- resultado SARIMA**
+**- resultado Prophet**
+**- resultado K-Means**
 
 in progress [...]
 
