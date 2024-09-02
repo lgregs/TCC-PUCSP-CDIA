@@ -82,7 +82,7 @@ Este projeto foi desenvolvido em conjunto por:
 
 This Projetct was developed by:
 
-- [Lucas Gregorio](https://github.com/gr3g-z)
+- [Lucas Gregorio](https://github.com/lgregs) 
 - [Beatriz Rodovalho](https://github.com/biarodgil)
 
 Orientado por (Oriented by):
